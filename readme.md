@@ -1,1 +1,1 @@
-Integrated Razorpay API using django framework.
+Containerized a simple Django application which also involves the Razorpay API
